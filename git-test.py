@@ -2,3 +2,4 @@
 
 # Each team member should write a print statement that prints their name
 print("Isabelle Pinto")
+print('Firdavs Nasriddinov')
